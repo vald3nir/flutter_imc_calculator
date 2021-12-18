@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_imc_calculator/src/views/home/home_viewmodel.dart';
 
